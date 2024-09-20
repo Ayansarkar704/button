@@ -1,0 +1,51 @@
+#js {
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jj {
+    background-color: black;
+    color:white;
+    padding: 10px;
+    border-radius:15px;
+}
+
+#jk {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jk:hover {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jkk {
+    background-color: rgb(157, 167, 20);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jkk:hover {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#kkj {
+    background-color: rgb(189, 18, 18);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+#kkj:hover {
+    background-color: rgb(152, 102, 102);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+    
